@@ -1,5 +1,8 @@
 # Code challenges provided here would be similar to previous code along,
 # a couple of simple examples of excess code can introduce the idea
+def test_method
+  'bears'
+end
 
 def bad_loop(array)
   i = 0
